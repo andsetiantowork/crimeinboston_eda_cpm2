@@ -2,7 +2,7 @@
 
 Dipersiapkan oleh Andi Setianto
 
-- Untuk mengakses direktori file / link secara lengkap, kunjungi https://linktr.ee/andisetianto
+Untuk mengakses direktori file / link secara lengkap, kunjungi https://linktr.ee/andisetianto
 
 LATAR BELAKANG
 
